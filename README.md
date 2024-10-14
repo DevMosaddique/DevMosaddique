@@ -7,7 +7,7 @@ I'm a passionate web developer who enjoys creating dynamic user experiences and 
 > *"Every line of code is a step toward my dreams."*
 
 ## 🌱 Currently Learning
-Right now, I’m deepening my knowledge of web development through [The Odin Project]. I'm particularly focused on mastering:
+Right now, I’m deepening my knowledge of web development through [The Odin Project](https://www.theodinproject.com/). I'm particularly focused on mastering:
 
 - **JavaScript** 
 - **React** 
